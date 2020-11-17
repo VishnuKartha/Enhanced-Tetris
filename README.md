@@ -1,0 +1,2 @@
+# Enhanced-Tetris
+An "enhanced" tetris game, with the following additional features: 1)A user can press ’u’ to make the piece that is falling rotate 180 degrees. 2) Three new tetris pieces in addition to the original 7. 3) A cheat mode. The user can press 'c' to cheat. If the user has 100 game points or more, his total game points are subtracted by 100 and a new "cheat" block(a 1x1 square) drops down.
